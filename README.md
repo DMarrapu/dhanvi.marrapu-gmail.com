@@ -1,2 +1,5 @@
 # dhanvi.marrapu-gmail.com
-Usaco Primpt 1
+Usaco Prompt 1
+
+
+http://www.usaco.org/index.php?page=viewproblem2&cpid=759
